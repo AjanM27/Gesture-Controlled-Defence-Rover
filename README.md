@@ -58,13 +58,12 @@ The Gesture Controlled Defence Rover is an innovative project designed to enhanc
 The code for this project is divided into several parts:
 
 1. **Rover Control**: 
-    - Code for controlling the rover's movement using gestures(receiver & transmitter).
+    - Code for controlling the rover's movement using gestures ([receiver](https://github.com/AjanM27/Gesture-Controlled-Defence-Rover/blob/main/Rover_Receiver.ino) & [transmitter](https://github.com/AjanM27/Gesture-Controlled-Defence-Rover/blob/main/Rover_transmitter.ino)).
 2. **Robotic Arm Control**: 
-    - Code for controlling the robotic arm using gestures(receiver & transmitter)
+    - Code for controlling the robotic arm using gestures ([receiver](https://github.com/AjanM27/Gesture-Controlled-Defence-Rover/blob/main/Arm_Receiver.ino) & [transmitter](https://github.com/AjanM27/Gesture-Controlled-Defence-Rover/blob/main/Arm_Transmitter.ino)).
 
 ## Future Enhancements
 
 - **Enhanced Stability**: Improve the stability and accuracy of gesture recognition.
 - **Obstacle Detection**: Integrate additional sensors for obstacle detection and avoidance.
 - **Extended Range**: Increase the range of wireless communication for larger operational areas.
-
